@@ -1,0 +1,4 @@
+Which year was the movie#MOVIENAME#released?@YEAR
+Who is the director of the#MOVIENAME#?@DIRECTOR
+Which movie is directed by#DIRECTOR#?@MOVIENAME
+Which movie is taken in#YEAR#?@MOVIENAME
